@@ -1,0 +1,1 @@
+This is Rainy's first git project!
